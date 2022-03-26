@@ -1,0 +1,22 @@
+
+table, hd, td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 700px;
+    height: 10px;
+    padding: 0px;
+    text-align: justify;
+    color:whitesmoke 
+}
+
+#punto{
+    text-align: justify;
+    text-decoration: underline;
+    
+td{
+    font-size: 20px;
+
+}
+
+
+
